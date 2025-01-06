@@ -4,7 +4,7 @@ from PIL import Image
 pygame.init()
 screen_width = 1000
 screen_height = 800
-roadtilemapsize=75
+roadtilemapsize=50
 screen = pygame.display.set_mode((screen_width,screen_height))
 done = False
 # Load the images
